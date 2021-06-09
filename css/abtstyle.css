@@ -1,0 +1,25 @@
+.header .about{
+    
+    position: absolute;
+    display: flex;
+    align-items: flex-start;
+    top: 25%;
+}
+.header .about .detail{
+    padding-left: 250px;
+    color: burlywood;
+    
+}
+.header .about .detail p{
+
+    padding-top: 10px;
+}
+.header .about .pic{
+    padding-left: 330px;
+    
+}
+.header .about .pic img{
+    width: 350px;
+    height: 500px;
+}
+

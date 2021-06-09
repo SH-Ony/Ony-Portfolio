@@ -1,0 +1,48 @@
+
+.header .banner{
+    position: absolute;
+    top: 30%;
+    left: 0;
+    
+}
+.header .banner .text{
+    padding-left: 350px;
+}
+
+.header .banner .text h1{
+    font-size: 60px;
+    position: relative;
+    margin-top: 30px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: crimson;
+}
+
+.header .banner .text h1 span{
+    color: aqua;
+}
+.header .banner {
+    display: flex;
+    align-items: flex-start;
+}
+
+.header .banner .pic img{
+    width:  700px;
+    height: 490px;
+    padding-left: 230px;
+    position: absolute;
+    top: 20%;
+}
+.header .banner .text .watch h2 a{
+    color: darkseagreen;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.header .banner .text .watch h2 a:hover{
+    color: silver;
+}
+
+
+
+

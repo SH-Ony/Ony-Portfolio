@@ -1,0 +1,17 @@
+
+
+.header .photo .capture{
+    display: flex;
+    flex-wrap: wrap;
+    top: 30%;
+}
+.header .photo .capture img{
+    width: 30%;
+    height: auto;
+    margin: 20px;
+    
+}
+.header .photo{
+    position: absolute;
+    top: 15%;
+}
